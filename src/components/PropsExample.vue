@@ -28,6 +28,6 @@ export default {
 
 <style scoped>
 .wrapper-child {
-    margin: 0 0 10px 30px;
+    margin: 0 0 10px 0;
 }
 </style>
