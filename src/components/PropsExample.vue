@@ -1,7 +1,7 @@
 <template>
-  <div class="wrapper-child">
-    Hello, {{ name }} {{ lastName }} {{ number }}!
-  </div>
+    <div class="wrapper-child">
+        Hello, {{ name }} {{ lastName }} {{ number }}!
+    </div>
 </template>
 
 <script>
